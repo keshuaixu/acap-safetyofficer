@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=clutch_servo_en Pin=JU5-2
+Added Pin To Net: NetName=clutch_servo_en Pin=JU5-1
+Added Pin To Net: NetName=NetJU5_2 Pin=JU5-2
+Added Pin To Net: NetName=NetJU5_2 Pin=Teensy1-19/A5
+Added Net: Name=NetJU5_2

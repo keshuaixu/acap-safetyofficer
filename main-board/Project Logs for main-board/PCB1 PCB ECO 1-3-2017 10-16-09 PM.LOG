@@ -1,0 +1,43 @@
+Added Component: Designator=C40(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CAP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7nf"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAP ALUM 8.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220uf"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CAP ALUM 8.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220uf"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=C40-1
+Added Pin To Net: NetName=VCC_PP Pin=C40-2
+Added Pin To Net: NetName=PGND Pin=C41-1
+Added Pin To Net: NetName=VCC_PP Pin=C41-2
+Added Pin To Net: NetName=PGND Pin=C42-1
+Added Pin To Net: NetName=VCC_PP Pin=C42-2
+Added Pin To Net: NetName=NetR17_1 Pin=C43-1
+Added Pin To Net: NetName=VCC_SERVO Pin=C43-2
+Added Pin To Net: NetName=VCC_SERVO Pin=C44-1
+Added Pin To Net: NetName=PGND Pin=C44-2
+Added Pin To Net: NetName=VCC_SERVO Pin=C45-1
+Added Pin To Net: NetName=PGND Pin=C45-2
+Added Pin To Net: NetName=PGND Pin=C46-1
+Added Pin To Net: NetName=VCC_SERVO Pin=C46-2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetC43_1
+Added Member To Class: ClassName=U_power Member=Component C40 Cap_0805
+Added Member To Class: ClassName=U_power Member=Component C41 Cap_0805
+Added Member To Class: ClassName=U_power Member=Component C42 Cap_0805
+Added Member To Class: ClassName=U_power Member=Component C43 Cap_0603
+Added Member To Class: ClassName=U_power Member=Component C44 220uf
+Added Member To Class: ClassName=U_power Member=Component C45 220uf
+Added Member To Class: ClassName=U_power Member=Component C46 Cap_0805

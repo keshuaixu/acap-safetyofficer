@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=button6 Pin=Teensy1-24
+Removed Pin From Net: NetName=button4 Pin=Teensy1-25
+Removed Pin From Net: NetName=button2 Pin=Teensy1-26
+Removed Pin From Net: NetName=vs_aircraft Pin=Teensy1-27
+Removed Pin From Net: NetName=button1 Pin=Teensy1-31
+Removed Pin From Net: NetName=button3 Pin=Teensy1-32
+Removed Pin From Net: NetName=button5 Pin=Teensy1-33
+Change component parameters. Clean all parameters for all variants
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "url"; Value = "http://www.digikey.com/product-detail/en/nxp-usa-inc/PMEG2010AEB,115/568-6502-1-ND/2531789"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Schottky 20v 500ma"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.3_T Pin=Teensy1-3.3V1
+Added Pin To Net: NetName=button1 Pin=Teensy1-24
+Added Pin To Net: NetName=button2 Pin=Teensy1-25
+Added Pin To Net: NetName=button3 Pin=Teensy1-26
+Added Pin To Net: NetName=button4 Pin=Teensy1-27
+Added Pin To Net: NetName=vs_aircraft Pin=Teensy1-31
+Added Pin To Net: NetName=button5 Pin=Teensy1-32
+Added Pin To Net: NetName=button6 Pin=Teensy1-33
+Added Pin To Net: NetName=GND Pin=Teensy1-GND1
+Added Pin To Net: NetName=GND Pin=Teensy1-GND2

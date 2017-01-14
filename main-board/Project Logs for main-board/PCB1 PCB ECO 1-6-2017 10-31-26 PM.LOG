@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=clutch_motor_a3 Pin=Teensy1-22/A8
+Removed Pin From Net: NetName=clutch_motor_b3 Pin=Teensy1-23/A9
+Added Pin To Net: NetName=clutch_motor_b3 Pin=Teensy1-22/A8
+Added Pin To Net: NetName=clutch_motor_a3 Pin=Teensy1-23/A9

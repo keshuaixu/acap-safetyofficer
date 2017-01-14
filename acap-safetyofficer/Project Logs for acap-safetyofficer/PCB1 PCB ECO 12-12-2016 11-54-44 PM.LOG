@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Vbackup Pin=F1-2
+Removed Member From Class: ClassName=U_power Member=F1
+Added Pin To Net: NetName=Vbackup Pin=J4-2

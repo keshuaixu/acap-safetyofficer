@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=U_power Member=C45
+Removed Member From Class: ClassName=U_power Member=C46
+Change Component Comment : Designator=C22_U_servo1 Old Comment=47uF New Comment=100uF
+Change Component Comment : Designator=C22_U_servo2 Old Comment=47uF New Comment=100uF
+Change Component Comment : Designator=C22_U_servo3 Old Comment=47uF New Comment=100uF
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=C27-1
+Added Pin To Net: NetName=VCC_SERVO Pin=C27-2
+Added Pin To Net: NetName=PGND Pin=C40-1
+Added Pin To Net: NetName=VCC_PP Pin=C40-2
+Added Pin To Net: NetName=PGND Pin=C41-1
+Added Pin To Net: NetName=VCC_PP Pin=C41-2
+Added Pin To Net: NetName=PGND Pin=C42-1
+Added Pin To Net: NetName=VCC_PP Pin=C42-2
+Added Pin To Net: NetName=NetC43_1 Pin=C43-1
+Added Pin To Net: NetName=VCC_SERVO Pin=C43-2
+Added Member To Class: ClassName=U_power Member=Component C27 Cap_0805

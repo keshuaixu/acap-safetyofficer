@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=PGND Pin=C11-1
+Removed Pin From Net: NetName=VCC_5 Pin=C11-2
+Removed Pin From Net: NetName=PGND Pin=C12-1
+Removed Pin From Net: NetName=VCC_5 Pin=C12-2
+Removed Pin From Net: NetName=PGND Pin=C14-1
+Removed Pin From Net: NetName=PGND Pin=C15-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=C15-2
+Removed Pin From Net: NetName=PGND Pin=C17-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=C17-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=U5-1
+Removed Pin From Net: NetName=PGND Pin=U5-4
+Removed Pin From Net: NetName=VCC_5 Pin=U5-5
+Removed Pin From Net: NetName=VCC_5 Pin=U5-8
+Removed Pin From Net: NetName=PGND Pin=U5-9
+Removed Member From Class: ClassName=U_power Member=C11
+Removed Member From Class: ClassName=U_power Member=C12
+Removed Member From Class: ClassName=U_power Member=C14
+Removed Member From Class: ClassName=U_power Member=C15
+Removed Member From Class: ClassName=U_power Member=C17
+Removed Member From Class: ClassName=U_power Member=U5
+Added Pin To Net: NetName=VCC_3.3 Pin=C2-2
+Added Pin To Net: NetName=VCC_3.3 Pin=P1-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R27-2
+Added Pin To Net: NetName=VCC_3.3 Pin=Teensy1-3.3V1
+Added Pin To Net: NetName=VCC_3.3 Pin=Teensy1-3.3V
+Added Pin To Net: NetName=VCC_3.3 Pin=U1-5
+Change Net Name : Old Net Name=VCC_3.3 New Net Name=VCC_3.3_T

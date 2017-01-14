@@ -1,0 +1,7 @@
+Added Component: Designator=L1(IND_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "?H"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.3 Pin=L1-1
+Added Pin To Net: NetName=VCCA Pin=L1-2
+Added Member To Class: ClassName=U_servo2 Member=Component J7_U_servo2 (J7) 691321100005
+Added Member To Class: ClassName=U_power Member=Component L1 Ind_0603

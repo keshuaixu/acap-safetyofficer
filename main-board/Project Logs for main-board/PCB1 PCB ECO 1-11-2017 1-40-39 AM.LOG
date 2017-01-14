@@ -1,0 +1,8 @@
+Added Component: Designator=JU?(jumper-onepad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JU?(jumper-onepad)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PGND Pin=JU?-1
+Added Pin To Net: NetName=PGND Pin=JU?-1
+Added Member To Class: ClassName=teensy Member=Component JU? jumper link
+Added Member To Class: ClassName=teensy Member=Component JU? jumper link

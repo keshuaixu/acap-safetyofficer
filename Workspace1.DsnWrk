@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=acap-safetyofficer\acap-safetyofficer.PrjPcb
+[Project2]
+ProjectPath=front-panel\front-panel.PrjPcb
+[Project3]
+ProjectPath=main-board\main-board.PrjPcb
+[Project4]
+ProjectPath=..\..\Documents\app-libs\Altium Designer library\Teensy-Eagle-Libraries\Imported Teensy_3_Series_Board_v1.0.PrjPcb\Teensy_3_Series_Board_v1.0.PrjPcb

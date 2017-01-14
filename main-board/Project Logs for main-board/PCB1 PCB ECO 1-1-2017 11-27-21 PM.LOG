@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ext_ps_en1 Pin=J2_U_external_ps_en1-1
+Removed Pin From Net: NetName=GND Pin=J2_U_external_ps_en1-2
+Removed Pin From Net: NetName=ext_ps_en2 Pin=J2_U_external_ps_en2-1
+Removed Pin From Net: NetName=GND Pin=J2_U_external_ps_en2-2
+Added Pin To Net: NetName=GND Pin=J2_U_external_ps_en1-1
+Added Pin To Net: NetName=ext_ps_en1 Pin=J2_U_external_ps_en1-2
+Added Pin To Net: NetName=GND Pin=J2_U_external_ps_en2-1
+Added Pin To Net: NetName=ext_ps_en2 Pin=J2_U_external_ps_en2-2
+Added Member To Class: ClassName=U_external_ps_en1 Member=Component J2_U_external_ps_en1 (J2) 691321100002
+Added Member To Class: ClassName=U_external_ps_en2 Member=Component J2_U_external_ps_en2 (J2) 691321100002

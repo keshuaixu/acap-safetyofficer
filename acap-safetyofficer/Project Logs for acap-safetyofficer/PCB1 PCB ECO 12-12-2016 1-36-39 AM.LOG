@@ -1,0 +1,32 @@
+Added Component: Designator=D7(LED3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "DIO-08794"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "DIO-08794"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "DIO-08794"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "DIO-08794"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_5 Pin=D7-A
+Added Pin To Net: NetName=VCC_5 Pin=D8-A
+Added Pin To Net: NetName=VCC_5 Pin=D9-A
+Added Pin To Net: NetName=VCC_5 Pin=D10-A
+Added Pin To Net: NetName=NetD7_K Pin=D7-K
+Added Pin To Net: NetName=NetD7_K Pin=U7-17
+Added Net: Name=NetD7_K
+Added Pin To Net: NetName=NetD8_K Pin=D8-K
+Added Pin To Net: NetName=NetD8_K Pin=U7-19
+Added Net: Name=NetD8_K
+Added Pin To Net: NetName=NetD9_K Pin=D9-K
+Added Pin To Net: NetName=NetD9_K Pin=U7-18
+Added Net: Name=NetD9_K
+Added Pin To Net: NetName=NetD10_K Pin=D10-K
+Added Pin To Net: NetName=NetD10_K Pin=U7-20
+Added Net: Name=NetD10_K
+Added Member To Class: ClassName=U_ui Member=Component D7 
+Added Member To Class: ClassName=U_ui Member=Component D8 
+Added Member To Class: ClassName=U_ui Member=Component D9 
+Added Member To Class: ClassName=U_ui Member=Component D10 

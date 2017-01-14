@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_3.3 Pin=C2-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=R27-2
+Removed Pin From Net: NetName=VCC_3.3 Pin=U1-5
+Added Pin To Net: NetName=VCC_3.3_T Pin=C2-2
+Added Pin To Net: NetName=VCC_3.3_T Pin=R27-2
+Added Pin To Net: NetName=VCC_3.3_T Pin=Teensy1-3.3V
+Added Pin To Net: NetName=VCC_3.3_T Pin=U1-5
+Added Net: Name=VCC_3.3_T
+Added Member To Class: ClassName=teensy Member=Component P1 Header 12

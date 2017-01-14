@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=clutch_servo_en Pin=Teensy1-15/A1
+Removed Pin From Net: NetName=ext_ap_disc Pin=Teensy1-19/A5
+Added Pin To Net: NetName=ext_ap_disc Pin=Teensy1-15/A1
+Added Pin To Net: NetName=clutch_servo_en Pin=Teensy1-19/A5

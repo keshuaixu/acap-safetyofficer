@@ -1,0 +1,7 @@
+Change Pin Designator/Name:  Old Designator=Teensy1-24 Old Name=24 New Designator =31/A20 New Name=31
+Change Pin Designator/Name:  Old Designator=Teensy1-25 Old Name=25/T/PWM New Designator =26/A15 New Name=26
+Change Pin Designator/Name:  Old Designator=Teensy1-26 Old Name=26/A15 New Designator =32/T/PWM New Name=32
+Change Pin Designator/Name:  Old Designator=Teensy1-27 Old Name=27/A16 New Designator =25/T/PWM New Name=25
+Change Pin Designator/Name:  Old Designator=Teensy1-31 Old Name=31/A20 New Designator =27/A16 New Name=27
+Change Pin Designator/Name:  Old Designator=Teensy1-32 Old Name=32/T/PWM New Designator =33/T New Name=33
+Change Pin Designator/Name:  Old Designator=Teensy1-33 Old Name=33/T New Designator =24 New Name=24

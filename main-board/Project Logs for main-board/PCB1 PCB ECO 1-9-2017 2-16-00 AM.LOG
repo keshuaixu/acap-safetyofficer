@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=clutch_pot2 Pin=Teensy1-A11
+Added Pin To Net: NetName=clutch_pot2 Pin=Teensy1-A13

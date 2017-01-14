@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=Vaircraft_relay Pin=C3-2
+Added Pin To Net: NetName=Vaircraft_relay Pin=D2-2
+Added Pin To Net: NetName=Vaircraft_relay Pin=J3-2
+Added Pin To Net: NetName=Vaircraft_relay Pin=JU1-1
+Added Pin To Net: NetName=Vaircraft_relay Pin=Q1-7
+Added Pin To Net: NetName=Vaircraft_relay Pin=Q1-8
+Added Pin To Net: NetName=Vaircraft_relay Pin=R2-2
+Added Pin To Net: NetName=Vaircraft_relay Pin=R9-2
+Added Pin To Net: NetName=Vaircraft_relay Pin=U2-24
+Change Net Name : Old Net Name=Vaircraft_relay New Net Name=Vaircraft

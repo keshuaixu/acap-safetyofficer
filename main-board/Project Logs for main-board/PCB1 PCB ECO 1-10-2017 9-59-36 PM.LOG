@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VCC_3.3_T Pin=Teensy1-3.3V1
+Added Pin To Net: NetName=GND Pin=Teensy1-GND1
+Added Pin To Net: NetName=GND Pin=Teensy1-GND2

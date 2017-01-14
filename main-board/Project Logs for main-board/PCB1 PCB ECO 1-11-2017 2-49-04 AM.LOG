@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=clutch_servo_en Pin=Teensy1-19/A5
+Added Component: Designator=JU5(jumper_62.4_9)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ClassName"; Value = "no-clearance-check"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=clutch_servo_en Pin=JU5-2
+Added Pin To Net: NetName=NetJU5_1 Pin=JU5-1
+Added Pin To Net: NetName=NetJU5_1 Pin=Teensy1-19/A5
+Added Net: Name=NetJU5_1
+Added Member To Class: ClassName=no-clearance-check Member=Component JU5 Jumper Link
+Added Member To Class: ClassName=teensy Member=Component JU5 Jumper Link

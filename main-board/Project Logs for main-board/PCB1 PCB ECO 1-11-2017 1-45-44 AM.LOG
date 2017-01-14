@@ -1,0 +1,3 @@
+Added Component: Designator=JU2(jumper-onepad)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=teensy Member=Component JU2 jumper link

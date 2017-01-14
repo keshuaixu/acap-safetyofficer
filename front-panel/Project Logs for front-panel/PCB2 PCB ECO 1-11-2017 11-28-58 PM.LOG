@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_5 Pin=C33-2
+Removed Pin From Net: NetName=VCC_5 Pin=C34-2
+Removed Pin From Net: NetName=VCC_5 Pin=C35-2
+Removed Pin From Net: NetName=VCC_5 Pin=C36-2
+Removed Pin From Net: NetName=VCC_5 Pin=U7-24
+Added Pin To Net: NetName=VCC_3.3 Pin=C33-2
+Added Pin To Net: NetName=VCC_3.3 Pin=C34-2
+Added Pin To Net: NetName=VCC_3.3 Pin=C35-2
+Added Pin To Net: NetName=VCC_3.3 Pin=C36-2
+Added Pin To Net: NetName=VCC_3.3 Pin=U7-24

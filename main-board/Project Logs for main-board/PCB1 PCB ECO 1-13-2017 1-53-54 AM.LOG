@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=oled_rst Pin=Teensy1-14/A0
+Removed Pin From Net: NetName=oled_cs Pin=Teensy1-16/A2
+Removed Pin From Net: NetName=oled_dc Pin=Teensy1-17/A3
+Added Pin To Net: NetName=oled_dc Pin=Teensy1-14/A0
+Added Pin To Net: NetName=oled_rst Pin=Teensy1-16/A2
+Added Pin To Net: NetName=oled_cs Pin=Teensy1-17/A3
