@@ -208,40 +208,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PTTVRBJN
 
 [Document11]
-DocumentPath=Project Outputs for main-board\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=Project Outputs for main-board\CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=Project Outputs for main-board\CAMtastic5.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=Project Outputs for main-board\CAMtastic6.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,55 +241,93 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=main-board.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for main-board\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for main-board\main-board.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for main-board\PCB1.DRR
+DocumentPath=Project Outputs for main-board\main-board.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for main-board\PCB1.EXTREP
+DocumentPath=Project Outputs for main-board\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for main-board\PCB1.GBL
+DocumentPath=Project Outputs for main-board\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for main-board\PCB1.GBO
+DocumentPath=Project Outputs for main-board\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for main-board\PCB1.GBS
+DocumentPath=Project Outputs for main-board\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for main-board\PCB1.GKO
+DocumentPath=Project Outputs for main-board\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for main-board\PCB1.GTL
+DocumentPath=Project Outputs for main-board\PCB1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for main-board\PCB1.GTO
+DocumentPath=Project Outputs for main-board\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for main-board\PCB1.GTS
+DocumentPath=Project Outputs for main-board\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for main-board\PCB1.LDP
+DocumentPath=Project Outputs for main-board\PCB1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for main-board\PCB1.REP
+DocumentPath=Project Outputs for main-board\PCB1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for main-board\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for main-board\PCB1.TXT
 DItemRevisionGUID=
 
